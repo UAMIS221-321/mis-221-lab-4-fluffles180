@@ -1,0 +1,15 @@
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/bin/Debug/net6.0/mis-221-lab-4-fluffles180
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/bin/Debug/net6.0/mis-221-lab-4-fluffles180.deps.json
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/bin/Debug/net6.0/mis-221-lab-4-fluffles180.runtimeconfig.json
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/bin/Debug/net6.0/mis-221-lab-4-fluffles180.dll
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/bin/Debug/net6.0/mis-221-lab-4-fluffles180.pdb
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/obj/Debug/net6.0/mis-221-lab-4-fluffles180.csproj.AssemblyReference.cache
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/obj/Debug/net6.0/mis-221-lab-4-fluffles180.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/obj/Debug/net6.0/mis-221-lab-4-fluffles180.AssemblyInfoInputs.cache
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/obj/Debug/net6.0/mis-221-lab-4-fluffles180.AssemblyInfo.cs
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/obj/Debug/net6.0/mis-221-lab-4-fluffles180.csproj.CoreCompileInputs.cache
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/obj/Debug/net6.0/mis-221-lab-4-fluffles180.dll
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/obj/Debug/net6.0/refint/mis-221-lab-4-fluffles180.dll
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/obj/Debug/net6.0/mis-221-lab-4-fluffles180.pdb
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/obj/Debug/net6.0/mis-221-lab-4-fluffles180.genruntimeconfig.cache
+/Users/owenmarrs/labfour/mis-221-lab-4-fluffles180/obj/Debug/net6.0/ref/mis-221-lab-4-fluffles180.dll
